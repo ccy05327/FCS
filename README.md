@@ -15,3 +15,5 @@
 [Data Structures And Algorithms (Chapter 9 Sorting).pdf](https://github.com/waystolearn/FCS/files/6120008/Data_Structures_And_Algorithms_----_.Chapter_9_Sorting.pdf)
 
 
+## Other
+[FCS study guide from h-sarhan](https://github.com/h-sarhan/FCS-study-guide)
