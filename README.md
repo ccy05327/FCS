@@ -1,5 +1,7 @@
 # Fundamental of Computer Science
 
+[Notes from me](https://github.com/ccy05327/FCS/tree/main/Notes)
+
 ## Resources
 
 ### Textbook
