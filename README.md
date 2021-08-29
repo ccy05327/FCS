@@ -19,3 +19,5 @@
 
 ## Other
 [FCS study guide from h-sarhan](https://github.com/h-sarhan/FCS-study-guide)
+
+[FreeCodeCamp - Algorithm and Data Structures (Full Course)](https://youtu.be/8hly31xKli0)
