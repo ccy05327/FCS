@@ -17,9 +17,14 @@
 [Data Structures And Algorithms (Chapter 9 Sorting).pdf](https://github.com/waystolearn/FCS/files/6120008/Data_Structures_And_Algorithms_----_.Chapter_9_Sorting.pdf)
 
 
-## Other
-[FCS study guide from h-sarhan](https://github.com/h-sarhan/FCS-study-guide)
+## Video
 
 [Neso Academy - Theory of Computation & Automata Theory (Full Course)](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev)
 
 [FreeCodeCamp - Algorithm and Data Structures (Full Course)](https://youtu.be/8hly31xKli0)
+
+
+
+## Other
+[FCS study guide from h-sarhan](https://github.com/h-sarhan/FCS-study-guide)
+
