@@ -20,4 +20,6 @@
 ## Other
 [FCS study guide from h-sarhan](https://github.com/h-sarhan/FCS-study-guide)
 
+[Neso Academy - Theory of Computation & Automata Theory (Full Course)](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev)
+
 [FreeCodeCamp - Algorithm and Data Structures (Full Course)](https://youtu.be/8hly31xKli0)
